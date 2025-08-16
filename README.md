@@ -1,6 +1,12 @@
 # ctf-vs-the-real-world
 Informational Repository tracking times that real world bugs have come out of CTF challenges intentionally or otherwise
 
+1. CVE-2024-7024
+    - https://x.com/ky1ebot/status/1779651955134243071
+    - https://issues.chromium.org/issues/334120897
+    - unintended
+  
+
 1. CVE-2016-5007
 
     - https://www.intrinsec.com/cve-2016-5007-spring-security-mvc-path-matching-inconsistency/
